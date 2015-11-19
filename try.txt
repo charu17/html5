@@ -7,3 +7,5 @@ u
 u
 u
 this is my step1 for commit and i will push the code ok.
+
+new lines for stash (to see the stash changes)
